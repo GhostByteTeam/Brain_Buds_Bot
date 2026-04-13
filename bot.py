@@ -528,5 +528,30 @@ def main():
         traceback.print_exc()
         sys.exit(1)
 
+# ============================================
+# WEB SERVER FOR CYCLIC (Keep bot alive)
+# ============================================
+
+from flask import Flask, request
+import threading
+
+app = Flask(__name__)
+
+@app.route('/')
+def home():
+    return "🤖 Brain Buds Bot is running!"
+
+@app.route('/health')
+def health():
+    return "OK", 200
+
+def run_web_server():
+    app.run(host='0.0.0.0', port=8080)
+
+# Start web server in background thread
+web_thread = threading.Thread(target=run_web_server, daemon=True)
+web_thread.start()
+print("🌐 Web server started on port 8080")
+
 if __name__ == "__main__":
     main()
