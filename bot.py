@@ -528,54 +528,5 @@ def main():
         traceback.print_exc()
         sys.exit(1)
 
-# ============================================
-# FOR KOYEB DEPLOYMENT - Keep alive
-# ============================================
-
-import http.server
-import socketserver
-import threading
-
-PORT = 8080
-
-class Handler(http.server.SimpleHTTPRequestHandler):
-    def do_GET(self):
-        self.send_response(200)
-        self.send_header('Content-type', 'text/html')
-        self.end_headers()
-        self.wfile.write(b'🤖 Brain Buds Bot is running!')
-
-def run_web_server():
-    with socketserver.TCPServer(("", PORT), Handler) as httpd:
-        print(f"🌐 Web server running on port {PORT}")
-        httpd.serve_forever()
-
-# Start web server in background
-web_thread = threading.Thread(target=run_web_server, daemon=True)
-web_thread.start()
-print("✅ Web server started for Koyeb")
-
-# ============================================
-# MAIN FUNCTION
-# ============================================
-
-def main():
-    print("\n" + "="*50)
-    print(f"🚀 {BOT_NAME} v{BOT_VERSION} is running on Koyeb!")
-    print(f"👑 Owner ID: {OWNER_ID}")
-    print("="*50 + "\n")
-    
-    while True:
-        try:
-            print("🟢 Bot is polling for messages...")
-            bot.infinity_polling(timeout=60, long_polling_timeout=60)
-        except Exception as e:
-            print(f"❌ Error: {e}")
-            print("🔄 Reconnecting in 10 seconds...")
-            time.sleep(10)
-
-if __name__ == "__main__":
-    main()
-
 if __name__ == "__main__":
     main()
