@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "question": "What is the past tense of 'go'?",
+        "options": ["Goed", "Went", "Gone", "Going"],
+        "correct": "B",
+        "explanation": "'Went' is the past tense of 'go'. Example: I went to school.",
+        "chapter_id": 1,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 2,
+        "question": "Which of these is a noun?",
+        "options": ["Run", "Beautiful", "Happiness", "Quickly"],
+        "correct": "C",
+        "explanation": "Happiness is a noun (abstract noun). Others are verb, adjective, adverb.",
+        "chapter_id": 2,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 3,
+        "question": "What is the synonym of 'Happy'?",
+        "options": ["Sad", "Joyful", "Angry", "Tired"],
+        "correct": "B",
+        "explanation": "Joyful means the same as happy.",
+        "chapter_id": 4,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 4,
+        "question": "Which sentence is grammatically correct?",
+        "options": [
+            "He don't like pizza.",
+            "He doesn't likes pizza.",
+            "He doesn't like pizza.",
+            "He not like pizza."
+        ],
+        "correct": "C",
+        "explanation": "With 'he', use 'doesn't' followed by base form of verb.",
+        "chapter_id": 1,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 5,
+        "question": "What is the opposite of 'Generous'?",
+        "options": ["Kind", "Selfish", "Helpful", "Caring"],
+        "correct": "B",
+        "explanation": "Selfish is the opposite of generous.",
+        "chapter_id": 4,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 6,
+        "question": "Which word is an adjective?",
+        "options": ["Quickly", "Beautiful", "Run", "Happiness"],
+        "correct": "B",
+        "explanation": "Beautiful describes a noun, so it's an adjective.",
+        "chapter_id": 2,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 7,
+        "question": "What is the plural of 'Child'?",
+        "options": ["Childs", "Childes", "Children", "Childern"],
+        "correct": "C",
+        "explanation": "The plural of child is children (irregular plural).",
+        "chapter_id": 2,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 8,
+        "question": "Choose the correct spelling:",
+        "options": ["Recieve", "Receive", "Receeve", "Recive"],
+        "correct": "B",
+        "explanation": "Receive is spelled R-E-C-E-I-V-E (i before e except after c).",
+        "chapter_id": 4,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 9,
+        "question": "What is the present continuous form of 'write'?",
+        "options": ["Writes", "Wrote", "Writing", "Written"],
+        "correct": "C",
+        "explanation": "Present continuous uses 'is/am/are + verb-ing': is writing.",
+        "chapter_id": 1,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 10,
+        "question": "Which sentence is in passive voice?",
+        "options": [
+            "The cat chased the mouse.",
+            "The mouse was chased by the cat.",
+            "The cat is chasing the mouse.",
+            "The cat chases the mouse."
+        ],
+        "correct": "B",
+        "explanation": "Passive voice: subject receives action (mouse was chased).",
+        "chapter_id": 3,
+        "difficulty": "hard",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 11,
+        "question": "What is the antonym of 'Ancient'?",
+        "options": ["Old", "Modern", "Historic", "Aged"],
+        "correct": "B",
+        "explanation": "Modern is the opposite of ancient.",
+        "chapter_id": 4,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 12,
+        "question": "Which of these is a preposition?",
+        "options": ["And", "But", "Under", "Run"],
+        "correct": "C",
+        "explanation": "Under is a preposition showing position.",
+        "chapter_id": 2,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 13,
+        "question": "What is the meaning of 'Brevity'?",
+        "options": ["Length", "Shortness", "Width", "Height"],
+        "correct": "B",
+        "explanation": "Brevity means concise and exact use of words; shortness.",
+        "chapter_id": 4,
+        "difficulty": "hard",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 14,
+        "question": "Choose the correct sentence:",
+        "options": [
+            "Me and him went to the park.",
+            "Him and me went to the park.",
+            "He and I went to the park.",
+            "I and him went to the park."
+        ],
+        "correct": "C",
+        "explanation": "Use subject pronouns 'He and I' as the subject.",
+        "chapter_id": 3,
+        "difficulty": "hard",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 15,
+        "question": "What is the comparative form of 'good'?",
+        "options": ["Gooder", "More good", "Better", "Best"],
+        "correct": "C",
+        "explanation": "Good - Better - Best (irregular comparative and superlative).",
+        "chapter_id": 2,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    }
+]

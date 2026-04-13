@@ -1,0 +1,134 @@
+====================================
+         ABOUT BRAIN BUDS
+====================================
+
+Version: 1.0.0
+Release Date: April 2026
+
+────────────────────────────────────
+🎯 MISSION
+────────────────────────────────────
+
+Brain Buds is designed to help students:
+• Test their knowledge through quizzes
+• Identify weak areas for improvement
+• Build consistent learning habits
+• Compete and learn in a fun way
+
+────────────────────────────────────
+✨ FEATURES
+────────────────────────────────────
+
+✓ 6 Subjects with Multiple Chapters
+✓ Chapter-wise Question Bank
+✓ 4 Different Quiz Modes
+✓ Daily Quiz Challenge
+✓ Detailed Performance Analytics
+✓ Leaderboard Competition
+✓ Streak Tracking
+✓ Wrong Answer Review with Explanations
+✓ Progress Statistics
+✓ Practice Mode for Learning
+
+────────────────────────────────────
+📊 SUBJECTS COVERED
+────────────────────────────────────
+
+Mathematics:
+• Algebra, Geometry, Trigonometry
+• Arithmetic, Calculus
+
+Science:
+• Physics Basics, Chemistry
+• Biology Basics
+
+English Grammar:
+• Tenses, Parts of Speech
+• Vocabulary, Sentence Structure
+
+Biology:
+• Human Body, Plants, Animals
+• Cells, Genetics
+
+Physics:
+• Laws of Motion, Units
+• Formulas, Numericals
+
+General Knowledge:
+• India, World, History
+• Geography, Current Affairs
+
+────────────────────────────────────
+🎮 QUIZ MODES EXPLAINED
+────────────────────────────────────
+
+Quick Quiz (5 Qs, 60 sec):
+• Fast testing
+• Best for revision
+
+Full Test (20 Qs, 10 min):
+• Complete topic coverage
+• Best for thorough practice
+
+Practice Mode (10 Qs, No timer):
+• No pressure
+• Learn at your own pace
+• See answers immediately
+
+Exam Mode (15 Qs, 5 min):
+• Real exam simulation
+• Negative marking (-2 for wrong)
+• Time pressure
+
+────────────────────────────────────
+🏆 ACHIEVEMENT SYSTEM
+────────────────────────────────────
+
+Earn badges for:
+• 7-day daily quiz streak
+• 90%+ accuracy in a topic
+• 100 quizzes completed
+• Top 3 on leaderboard
+• Complete all chapters of a subject
+
+────────────────────────────────────
+🛠️ TECHNICAL INFO
+────────────────────────────────────
+
+Platform: Telegram Bot
+Language: Python
+Hosting: Render (Free Tier)
+Data Storage: JSON (No external database)
+
+Privacy: No personal data collected
+All data stored locally in JSON files
+
+────────────────────────────────────
+👨‍💻 DEVELOPER
+────────────────────────────────────
+
+Created by: Brain Buds Team
+Support: @BrainBudsSupport
+Feedback: /feedback [message]
+
+────────────────────────────────────
+📜 LICENSE
+────────────────────────────────────
+
+Free for educational use
+Not for commercial redistribution
+
+────────────────────────────────────
+🙏 SPECIAL THANKS
+────────────────────────────────────
+
+To all students and learners
+who inspire us to create better
+learning tools every day!
+
+────────────────────────────────────
+      Keep Learning! 🧠🌱
+      Keep Growing! 📈
+────────────────────────────────────
+
+Type /menu to start your journey!

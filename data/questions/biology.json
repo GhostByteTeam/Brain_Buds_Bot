@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "question": "What is the basic unit of life?",
+        "options": ["Atom", "Molecule", "Cell", "Tissue"],
+        "correct": "C",
+        "explanation": "The cell is the fundamental structural and functional unit of life.",
+        "chapter_id": 4,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 2,
+        "question": "Which organ pumps blood throughout the human body?",
+        "options": ["Brain", "Liver", "Heart", "Lungs"],
+        "correct": "C",
+        "explanation": "The heart pumps blood to all parts of the body.",
+        "chapter_id": 1,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 3,
+        "question": "What is the process by which plants release water vapor?",
+        "options": ["Photosynthesis", "Transpiration", "Respiration", "Fermentation"],
+        "correct": "B",
+        "explanation": "Transpiration is the loss of water vapor from plant leaves.",
+        "chapter_id": 2,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 4,
+        "question": "Which of these is NOT a part of the human respiratory system?",
+        "options": ["Lungs", "Trachea", "Esophagus", "Diaphragm"],
+        "correct": "C",
+        "explanation": "Esophagus is part of digestive system, not respiratory.",
+        "chapter_id": 1,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 5,
+        "question": "What is the pigment that gives plants their green color?",
+        "options": ["Hemoglobin", "Melanin", "Chlorophyll", "Carotene"],
+        "correct": "C",
+        "explanation": "Chlorophyll absorbs sunlight for photosynthesis and appears green.",
+        "chapter_id": 2,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 6,
+        "question": "How many chromosomes do humans typically have?",
+        "options": ["23", "46", "48", "24"],
+        "correct": "B",
+        "explanation": "Humans have 46 chromosomes (23 pairs).",
+        "chapter_id": 4,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 7,
+        "question": "Which vitamin is also known as ascorbic acid?",
+        "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+        "correct": "C",
+        "explanation": "Vitamin C is also called ascorbic acid, important for immunity.",
+        "chapter_id": 1,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 8,
+        "question": "What is the largest bone in the human body?",
+        "options": ["Skull", "Spine", "Femur", "Rib"],
+        "correct": "C",
+        "explanation": "The femur (thigh bone) is the longest and strongest bone.",
+        "chapter_id": 1,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 9,
+        "question": "Which of these animals is a mammal?",
+        "options": ["Penguin", "Shark", "Dolphin", "Crocodile"],
+        "correct": "C",
+        "explanation": "Dolphins are marine mammals; they breathe air and give live birth.",
+        "chapter_id": 3,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 10,
+        "question": "What is the function of red blood cells?",
+        "options": [
+            "Fight infection",
+            "Carry oxygen",
+            "Clot blood",
+            "Produce antibodies"
+        ],
+        "correct": "B",
+        "explanation": "Red blood cells contain hemoglobin to carry oxygen.",
+        "chapter_id": 1,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 11,
+        "question": "What is the process by which cells divide to produce gametes?",
+        "options": ["Mitosis", "Meiosis", "Binary Fission", "Budding"],
+        "correct": "B",
+        "explanation": "Meiosis produces sex cells (sperm and egg) with half chromosomes.",
+        "chapter_id": 4,
+        "difficulty": "hard",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 12,
+        "question": "Which part of the plant absorbs water and minerals from soil?",
+        "options": ["Stem", "Leaves", "Roots", "Flowers"],
+        "correct": "C",
+        "explanation": "Roots absorb water and minerals from the soil.",
+        "chapter_id": 2,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 13,
+        "question": "What is the scientific name for the human species?",
+        "options": [
+            "Homo erectus",
+            "Homo habilis",
+            "Homo sapiens",
+            "Homo neanderthalensis"
+        ],
+        "correct": "C",
+        "explanation": "Homo sapiens is the scientific name for modern humans.",
+        "chapter_id": 3,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 14,
+        "question": "Which organelle is known as the 'powerhouse of the cell'?",
+        "options": ["Nucleus", "Ribosome", "Mitochondria", "Golgi apparatus"],
+        "correct": "C",
+        "explanation": "Mitochondria produce ATP energy for the cell.",
+        "chapter_id": 4,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 15,
+        "question": "What is the main function of the nervous system?",
+        "options": [
+            "Transport blood",
+            "Digest food",
+            "Transmit signals",
+            "Filter waste"
+        ],
+        "correct": "C",
+        "explanation": "The nervous system transmits signals between brain and body.",
+        "chapter_id": 1,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "id": 1,
+        "question": "What is Newton's First Law also known as?",
+        "options": [
+            "Law of Inertia",
+            "Law of Acceleration",
+            "Law of Action-Reaction",
+            "Law of Gravity"
+        ],
+        "correct": "A",
+        "explanation": "Newton's First Law is the Law of Inertia: objects resist change in motion.",
+        "chapter_id": 1,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 2,
+        "question": "What is the SI unit of force?",
+        "options": ["Joule", "Watt", "Newton", "Pascal"],
+        "correct": "C",
+        "explanation": "Force is measured in Newtons (N), named after Isaac Newton.",
+        "chapter_id": 1,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 3,
+        "question": "What is the speed of light in vacuum?",
+        "options": [
+            "3 × 10⁶ m/s",
+            "3 × 10⁸ m/s",
+            "3 × 10¹⁰ m/s",
+            "3 × 10⁵ m/s"
+        ],
+        "correct": "B",
+        "explanation": "Light travels at approximately 300,000 km/s (3 × 10⁸ m/s).",
+        "chapter_id": 3,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 4,
+        "question": "What is the formula for calculating work?",
+        "options": [
+            "Force × Distance",
+            "Force × Time",
+            "Mass × Acceleration",
+            "Power × Time"
+        ],
+        "correct": "A",
+        "explanation": "Work = Force × Displacement in the direction of force.",
+        "chapter_id": 1,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 5,
+        "question": "Which law states that every action has an equal and opposite reaction?",
+        "options": [
+            "Newton's First Law",
+            "Newton's Second Law",
+            "Newton's Third Law",
+            "Law of Gravitation"
+        ],
+        "correct": "C",
+        "explanation": "Newton's Third Law: For every action, there is an equal and opposite reaction.",
+        "chapter_id": 1,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 6,
+        "question": "What is the SI unit of electric current?",
+        "options": ["Volt", "Ohm", "Ampere", "Watt"],
+        "correct": "C",
+        "explanation": "Electric current is measured in Amperes (Amps).",
+        "chapter_id": 4,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 7,
+        "question": "What type of lens converges light rays?",
+        "options": [
+            "Concave lens",
+            "Convex lens",
+            "Plano lens",
+            "Biconcave lens"
+        ],
+        "correct": "B",
+        "explanation": "Convex lenses converge light rays to a focal point.",
+        "chapter_id": 3,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 8,
+        "question": "What is the acceleration due to gravity on Earth?",
+        "options": ["9.8 m/s²", "10 m/s²", "8.9 m/s²", "11.2 m/s²"],
+        "correct": "A",
+        "explanation": "g = 9.8 m/s² on Earth's surface (approximately).",
+        "chapter_id": 1,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 9,
+        "question": "Which of these is a scalar quantity?",
+        "options": ["Velocity", "Force", "Mass", "Acceleration"],
+        "correct": "C",
+        "explanation": "Mass is scalar (magnitude only). Others are vectors (magnitude + direction).",
+        "chapter_id": 2,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 10,
+        "question": "What is Ohm's Law formula?",
+        "options": ["V = I/R", "V = I × R", "V = R/I", "I = V × R"],
+        "correct": "B",
+        "explanation": "Ohm's Law: Voltage = Current × Resistance (V = IR).",
+        "chapter_id": 4,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 11,
+        "question": "What is the unit of frequency?",
+        "options": ["Hertz", "Decibel", "Joule", "Watt"],
+        "correct": "A",
+        "explanation": "Frequency is measured in Hertz (Hz), cycles per second.",
+        "chapter_id": 3,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 12,
+        "question": "Which color of light has the longest wavelength?",
+        "options": ["Violet", "Blue", "Green", "Red"],
+        "correct": "D",
+        "explanation": "Red light has the longest wavelength, violet has the shortest.",
+        "chapter_id": 3,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 13,
+        "question": "What is kinetic energy?",
+        "options": [
+            "Energy of position",
+            "Energy of motion",
+            "Stored energy",
+            "Heat energy"
+        ],
+        "correct": "B",
+        "explanation": "Kinetic energy is the energy an object has due to its motion.",
+        "chapter_id": 1,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 14,
+        "question": "What is the formula for density?",
+        "options": [
+            "Mass × Volume",
+            "Mass / Volume",
+            "Volume / Mass",
+            "Mass + Volume"
+        ],
+        "correct": "B",
+        "explanation": "Density = Mass divided by Volume (ρ = m/V).",
+        "chapter_id": 2,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 15,
+        "question": "Which law describes the force between two charged particles?",
+        "options": [
+            "Newton's Law",
+            "Ohm's Law",
+            "Coulomb's Law",
+            "Faraday's Law"
+        ],
+        "correct": "C",
+        "explanation": "Coulomb's Law describes electrostatic force between charges.",
+        "chapter_id": 4,
+        "difficulty": "hard",
+        "created_at": "2026-04-13 10:00:00"
+    }
+]

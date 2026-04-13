@@ -1,0 +1,136 @@
+====================================
+         HELP GUIDE
+====================================
+
+Everything you need to know about using Brain Buds Bot!
+
+────────────────────────────────────
+🎮 COMMANDS LIST
+────────────────────────────────────
+
+Basic Commands:
+---------------
+/start      - Start the bot
+/menu       - Show main menu
+/topics     - Show all available topics
+/help       - Show this help message
+/about      - Show bot information
+
+Quiz Commands:
+--------------
+/ans A      - Select answer option A
+/ans B      - Select answer option B
+/ans C      - Select answer option C
+/ans D      - Select answer option D
+/skip       - Skip current question
+/quit       - Quit current quiz
+
+Progress Commands:
+------------------
+/mystats    - View your statistics
+/leaderboard - View top scores
+/daily      - Take daily quiz challenge
+
+────────────────────────────────────
+📚 HOW TO TAKE A QUIZ
+────────────────────────────────────
+
+Step 1: Type /menu or /topics
+Step 2: Select a subject (Maths, Science, etc.)
+Step 3: Select a chapter
+Step 4: Choose quiz mode (Quick/Full/Practice/Exam)
+Step 5: Answer questions using /ans A, /ans B, etc.
+Step 6: View your result and analysis
+
+────────────────────────────────────
+🏆 SCORING DETAILS
+────────────────────────────────────
+
+Points System:
+--------------
+• Correct Answer     : +10 points
+• Wrong Answer       : 0 points
+• Wrong (Exam Mode)  : -2 points
+• Skip               : 0 points
+
+Bonuses:
+--------
+• 3 Correct in a row : +5 points (streak bonus)
+• Complete early     : +2 points (time bonus)
+• Finish quiz        : +10 points (completion bonus)
+
+Grading Scale:
+--------------
+90-100%  : A+ 🏆 (Excellent!)
+80-89%   : A  ⭐ (Very Good!)
+70-79%   : B+ 👍 (Good!)
+60-69%   : B  📚 (Fair)
+50-59%   : C  ⚠️ (Average)
+0-49%    : D  ❌ (Need Practice)
+
+────────────────────────────────────
+📊 UNDERSTANDING YOUR STATS
+────────────────────────────────────
+
+/mystats shows you:
+• Total quizzes played
+• Total questions answered
+• Correct/Wrong ratio
+• Accuracy percentage
+• Best score
+• Average score
+• Topic-wise performance
+• Weak areas
+
+────────────────────────────────────
+📅 DAILY QUIZ
+────────────────────────────────────
+
+• New quiz every day at midnight
+• Only 5 questions
+• Can play only once per day
+• Build streaks by playing daily
+• 7-day streak gives special badge
+
+────────────────────────────────────
+❓ FREQUENTLY ASKED QUESTIONS
+────────────────────────────────────
+
+Q: Can I retake a quiz?
+A: Yes! You can take any quiz unlimited times.
+
+Q: How do I see wrong answers?
+A: After each quiz, result shows all wrong answers with explanations.
+
+Q: What is negative marking?
+A: In Exam Mode, wrong answers deduct 2 points.
+
+Q: How to increase my rank?
+A: Play more quizzes, get correct answers, maintain streaks.
+
+Q: Bot not responding?
+A: Type /start to restart or wait a few seconds.
+
+────────────────────────────────────
+🔧 TROUBLESHOOTING
+────────────────────────────────────
+
+Problem: Bot doesn't respond
+Solution: Type /start or restart the bot
+
+Problem: Can't answer questions
+Solution: Use exact format: /ans A (not /ans a or just A)
+
+Problem: Quiz stuck
+Solution: Type /quit and start new quiz
+
+────────────────────────────────────
+📞 NEED MORE HELP?
+────────────────────────────────────
+
+Contact: @BrainBudsSupport
+Report bugs: /feedback [your message]
+
+────────────────────────────────────
+      Happy Learning! 🧠🌱
+────────────────────────────────────

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Laws of Motion",
+        "description": "Newton's laws, force, inertia, momentum, and friction",
+        "question_count": 0,
+        "icon": "⚙️",
+        "difficulty": "beginner"
+    },
+    {
+        "id": 2,
+        "name": "Units and Measurements",
+        "description": "SI units, measurements, errors, and dimensional analysis",
+        "question_count": 0,
+        "icon": "📏",
+        "difficulty": "beginner"
+    },
+    {
+        "id": 3,
+        "name": "Light and Optics",
+        "description": "Reflection, refraction, lenses, mirrors, and optical instruments",
+        "question_count": 0,
+        "icon": "💡",
+        "difficulty": "intermediate"
+    },
+    {
+        "id": 4,
+        "name": "Electricity and Magnetism",
+        "description": "Current, voltage, resistance, circuits, magnets, and electromagnetism",
+        "question_count": 0,
+        "icon": "⚡",
+        "difficulty": "intermediate"
+    },
+    {
+        "id": 5,
+        "name": "Thermodynamics",
+        "description": "Heat, temperature, laws of thermodynamics, and entropy",
+        "question_count": 0,
+        "icon": "🔥",
+        "difficulty": "advanced"
+    },
+    {
+        "id": 6,
+        "name": "Modern Physics",
+        "description": "Quantum mechanics, relativity, nuclear physics, and particle physics",
+        "question_count": 0,
+        "icon": "⚛️",
+        "difficulty": "advanced"
+    }
+]

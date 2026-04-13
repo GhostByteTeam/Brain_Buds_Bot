@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Indian Geography and Culture",
+        "description": "Rivers, mountains, cities, festivals, monuments, and cultural heritage",
+        "question_count": 0,
+        "icon": "🇮🇳",
+        "difficulty": "beginner"
+    },
+    {
+        "id": 2,
+        "name": "World Geography",
+        "description": "Continents, oceans, countries, capitals, and world landmarks",
+        "question_count": 0,
+        "icon": "🌍",
+        "difficulty": "beginner"
+    },
+    {
+        "id": 3,
+        "name": "Indian History and Politics",
+        "description": "Ancient, medieval, modern India, freedom struggle, and constitution",
+        "question_count": 0,
+        "icon": "📜",
+        "difficulty": "intermediate"
+    },
+    {
+        "id": 4,
+        "name": "Science and Technology",
+        "description": "Inventions, discoveries, ISRO, DRDO, and scientific achievements",
+        "question_count": 0,
+        "icon": "🔬",
+        "difficulty": "intermediate"
+    },
+    {
+        "id": 5,
+        "name": "Sports and Awards",
+        "description": "Olympics, cricket, football, national sports awards, and tournaments",
+        "question_count": 0,
+        "icon": "🏆",
+        "difficulty": "intermediate"
+    },
+    {
+        "id": 6,
+        "name": "Current Affairs",
+        "description": "Latest news, events, appointments, and important days",
+        "question_count": 0,
+        "icon": "📰",
+        "difficulty": "advanced"
+    },
+    {
+        "id": 7,
+        "name": "Economics and Business",
+        "description": "Budget, GDP, banking, companies, and economic terms",
+        "question_count": 0,
+        "icon": "💰",
+        "difficulty": "advanced"
+    }
+]

@@ -1,0 +1,72 @@
+====================================
+      WELCOME TO BRAIN BUDS!      
+====================================
+
+Your personal AI-powered quiz bot to test and improve your knowledge!
+
+────────────────────────────────────
+📚 WHAT CAN YOU DO?
+────────────────────────────────────
+
+✓ Take chapter-wise quizzes for 6 different subjects
+✓ Choose from 4 quiz modes (Quick, Full, Practice, Exam)
+✓ Track your progress and see detailed results
+✓ Compete on the leaderboard
+✓ Take daily quiz challenges
+✓ Review your mistakes and learn from explanations
+
+────────────────────────────────────
+🎯 AVAILABLE SUBJECTS
+────────────────────────────────────
+
+📚 Mathematics
+🔬 Science
+📖 English Grammar
+🧬 Biology
+⚡ Physics
+🌍 General Knowledge
+
+────────────────────────────────────
+🎮 QUIZ MODES
+────────────────────────────────────
+
+Quick Quiz    : 5 questions, 1 minute
+Full Test     : 20 questions, 10 minutes
+Practice Mode : No time limit, learn at your pace
+Exam Mode     : 15 questions, 5 minutes with negative marking
+
+────────────────────────────────────
+🏆 SCORING SYSTEM
+────────────────────────────────────
+
+Correct Answer      : +10 points
+Wrong Answer        : 0 points (-2 in exam mode)
+3 Correct Streak    : +5 bonus
+Fast Completion     : +2 time bonus
+Quiz Completion     : +10 bonus
+
+────────────────────────────────────
+📝 QUICK COMMANDS
+────────────────────────────────────
+
+/menu      - Show main menu
+/topics    - View all subjects
+/daily     - Take daily quiz
+/leaderboard - View top scores
+/mystats   - Check your progress
+/help      - Get help
+/about     - About this bot
+
+────────────────────────────────────
+💡 TIPS
+────────────────────────────────────
+
+• Practice daily to build streaks
+• Review your wrong answers
+• Try exam mode for real test experience
+• Compete with friends on leaderboard
+
+────────────────────────────────────
+      Ready to start learning?
+        Type /menu to begin!
+────────────────────────────────────

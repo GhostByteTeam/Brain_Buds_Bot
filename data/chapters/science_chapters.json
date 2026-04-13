@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Physics Basics",
+        "description": "Motion, force, energy, work, power, and fundamental laws",
+        "question_count": 0,
+        "icon": "⚡",
+        "difficulty": "beginner"
+    },
+    {
+        "id": 2,
+        "name": "Chemistry",
+        "description": "Elements, compounds, chemical reactions, periodic table, and equations",
+        "question_count": 0,
+        "icon": "🧪",
+        "difficulty": "intermediate"
+    },
+    {
+        "id": 3,
+        "name": "Biology Basics",
+        "description": "Living organisms, cells, tissues, and life processes",
+        "question_count": 0,
+        "icon": "🔬",
+        "difficulty": "beginner"
+    },
+    {
+        "id": 4,
+        "name": "Environmental Science",
+        "description": "Ecosystems, pollution, conservation, and climate change",
+        "question_count": 0,
+        "icon": "🌍",
+        "difficulty": "intermediate"
+    },
+    {
+        "id": 5,
+        "name": "Astronomy",
+        "description": "Planets, stars, galaxies, universe, and space exploration",
+        "question_count": 0,
+        "icon": "🌌",
+        "difficulty": "advanced"
+    }
+]

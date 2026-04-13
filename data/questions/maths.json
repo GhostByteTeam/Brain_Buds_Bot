@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "question": "What is the value of 2 + 2?",
+        "options": ["3", "4", "5", "6"],
+        "correct": "B",
+        "explanation": "2 + 2 equals 4. This is basic addition.",
+        "chapter_id": 1,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 2,
+        "question": "What is 5 × 6?",
+        "options": ["30", "25", "35", "40"],
+        "correct": "A",
+        "explanation": "5 × 6 = 30. Multiplication of 5 and 6 gives 30.",
+        "chapter_id": 1,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 3,
+        "question": "What is the square root of 64?",
+        "options": ["6", "7", "8", "9"],
+        "correct": "C",
+        "explanation": "√64 = 8 because 8 × 8 = 64.",
+        "chapter_id": 1,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 4,
+        "question": "If x = 5, what is 2x + 3?",
+        "options": ["10", "11", "12", "13"],
+        "correct": "D",
+        "explanation": "2(5) + 3 = 10 + 3 = 13",
+        "chapter_id": 1,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 5,
+        "question": "What is 15% of 200?",
+        "options": ["20", "25", "30", "35"],
+        "correct": "C",
+        "explanation": "15% of 200 = (15/100) × 200 = 30",
+        "chapter_id": 4,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 6,
+        "question": "What is the value of π (pi) approximately?",
+        "options": ["2.14", "3.14", "4.14", "5.14"],
+        "correct": "B",
+        "explanation": "π (pi) is approximately 3.14159...",
+        "chapter_id": 1,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 7,
+        "question": "Solve: 3x - 7 = 8. What is x?",
+        "options": ["3", "4", "5", "6"],
+        "correct": "C",
+        "explanation": "3x - 7 = 8 → 3x = 15 → x = 5",
+        "chapter_id": 1,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 8,
+        "question": "What is the area of a square with side 4 cm?",
+        "options": ["8 cm²", "12 cm²", "16 cm²", "20 cm²"],
+        "correct": "C",
+        "explanation": "Area of square = side² = 4² = 16 cm²",
+        "chapter_id": 2,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 9,
+        "question": "What is 100 ÷ 4?",
+        "options": ["20", "25", "30", "35"],
+        "correct": "B",
+        "explanation": "100 ÷ 4 = 25",
+        "chapter_id": 1,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 10,
+        "question": "If a triangle has angles 50° and 60°, what is the third angle?",
+        "options": ["50°", "60°", "70°", "80°"],
+        "correct": "C",
+        "explanation": "Sum of angles in triangle = 180°. Third angle = 180 - 50 - 60 = 70°",
+        "chapter_id": 2,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    }
+]

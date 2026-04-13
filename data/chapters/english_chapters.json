@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Tenses",
+        "description": "Present, past, future tenses and their forms",
+        "question_count": 0,
+        "icon": "⏰",
+        "difficulty": "beginner"
+    },
+    {
+        "id": 2,
+        "name": "Parts of Speech",
+        "description": "Nouns, pronouns, verbs, adjectives, adverbs, prepositions, conjunctions, interjections",
+        "question_count": 0,
+        "icon": "📚",
+        "difficulty": "beginner"
+    },
+    {
+        "id": 3,
+        "name": "Sentence Structure",
+        "description": "Subject-verb agreement, active-passive voice, direct-indirect speech",
+        "question_count": 0,
+        "icon": "✏️",
+        "difficulty": "intermediate"
+    },
+    {
+        "id": 4,
+        "name": "Vocabulary",
+        "description": "Synonyms, antonyms, idioms, phrases, and one-word substitutions",
+        "question_count": 0,
+        "icon": "📖",
+        "difficulty": "intermediate"
+    },
+    {
+        "id": 5,
+        "name": "Composition",
+        "description": "Paragraph writing, essay writing, letter writing, and comprehension",
+        "question_count": 0,
+        "icon": "📝",
+        "difficulty": "advanced"
+    }
+]

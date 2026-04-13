@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "question": "What is the chemical symbol for Gold?",
+        "options": ["Go", "Gd", "Au", "Ag"],
+        "correct": "C",
+        "explanation": "Au comes from Latin word 'Aurum' meaning gold.",
+        "chapter_id": 2,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 2,
+        "question": "What is the hardest natural substance?",
+        "options": ["Iron", "Diamond", "Gold", "Platinum"],
+        "correct": "B",
+        "explanation": "Diamond is the hardest known natural material on Earth.",
+        "chapter_id": 2,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 3,
+        "question": "What is the chemical symbol for Water?",
+        "options": ["O2", "CO2", "H2O", "NaCl"],
+        "correct": "C",
+        "explanation": "Water is H2O - two hydrogen atoms and one oxygen atom.",
+        "chapter_id": 2,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 4,
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Jupiter", "Mars", "Venus", "Saturn"],
+        "correct": "B",
+        "explanation": "Mars appears red due to iron oxide (rust) on its surface.",
+        "chapter_id": 1,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 5,
+        "question": "What is the process by which plants make food?",
+        "options": ["Respiration", "Photosynthesis", "Transpiration", "Fermentation"],
+        "correct": "B",
+        "explanation": "Photosynthesis uses sunlight, CO2 and water to make food.",
+        "chapter_id": 3,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 6,
+        "question": "What is the largest organ in the human body?",
+        "options": ["Heart", "Liver", "Skin", "Brain"],
+        "correct": "C",
+        "explanation": "Skin is the largest organ, covering about 2 square meters.",
+        "chapter_id": 3,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 7,
+        "question": "What gas do plants absorb from the air?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+        "correct": "C",
+        "explanation": "Plants absorb CO2 for photosynthesis and release oxygen.",
+        "chapter_id": 3,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 8,
+        "question": "What is the boiling point of water at sea level?",
+        "options": ["90°C", "100°C", "110°C", "120°C"],
+        "correct": "B",
+        "explanation": "Water boils at 100°C (212°F) at standard atmospheric pressure.",
+        "chapter_id": 1,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 9,
+        "question": "Which of these is a renewable energy source?",
+        "options": ["Coal", "Natural Gas", "Solar Power", "Petroleum"],
+        "correct": "C",
+        "explanation": "Solar power is renewable as sunlight is unlimited.",
+        "chapter_id": 1,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 10,
+        "question": "What is the center of an atom called?",
+        "options": ["Electron", "Proton", "Neutron", "Nucleus"],
+        "correct": "D",
+        "explanation": "The nucleus contains protons and neutrons.",
+        "chapter_id": 2,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 11,
+        "question": "Which vitamin is produced by the human body when exposed to sunlight?",
+        "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+        "correct": "D",
+        "explanation": "Sunlight helps body produce Vitamin D naturally.",
+        "chapter_id": 3,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 12,
+        "question": "What is the pH value of pure water?",
+        "options": ["5", "6", "7", "8"],
+        "correct": "C",
+        "explanation": "Pure water has pH 7, which is neutral.",
+        "chapter_id": 2,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 13,
+        "question": "Which of these is NOT a state of matter?",
+        "options": ["Solid", "Liquid", "Gas", "Energy"],
+        "correct": "D",
+        "explanation": "Energy is not a state of matter. States are solid, liquid, gas, plasma.",
+        "chapter_id": 1,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 14,
+        "question": "What is the study of fossils called?",
+        "options": ["Biology", "Geology", "Paleontology", "Archaeology"],
+        "correct": "C",
+        "explanation": "Paleontology is the study of fossils and ancient life.",
+        "chapter_id": 3,
+        "difficulty": "hard",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 15,
+        "question": "Which gas is most abundant in Earth's atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+        "correct": "C",
+        "explanation": "Nitrogen makes up about 78% of Earth's atmosphere.",
+        "chapter_id": 1,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    }
+]

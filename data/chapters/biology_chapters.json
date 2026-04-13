@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Human Body",
+        "description": "Organs, systems, functions, and human anatomy",
+        "question_count": 0,
+        "icon": "🧬",
+        "difficulty": "beginner"
+    },
+    {
+        "id": 2,
+        "name": "Plants",
+        "description": "Plant kingdom, photosynthesis, reproduction, and plant anatomy",
+        "question_count": 0,
+        "icon": "🌿",
+        "difficulty": "beginner"
+    },
+    {
+        "id": 3,
+        "name": "Animals",
+        "description": "Animal kingdom, classification, habitats, and adaptations",
+        "question_count": 0,
+        "icon": "🦁",
+        "difficulty": "intermediate"
+    },
+    {
+        "id": 4,
+        "name": "Cells and Genetics",
+        "description": "Cell structure, DNA, RNA, heredity, and evolution",
+        "question_count": 0,
+        "icon": "🧬",
+        "difficulty": "advanced"
+    },
+    {
+        "id": 5,
+        "name": "Microbiology",
+        "description": "Bacteria, viruses, fungi, and microorganisms",
+        "question_count": 0,
+        "icon": "🦠",
+        "difficulty": "advanced"
+    },
+    {
+        "id": 6,
+        "name": "Ecology",
+        "description": "Ecosystems, food chains, biodiversity, and conservation",
+        "question_count": 0,
+        "icon": "🌍",
+        "difficulty": "intermediate"
+    }
+]

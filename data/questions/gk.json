@@ -1,0 +1,357 @@
+[
+    {
+        "id": 1,
+        "question": "Who is known as the Father of the Indian Constitution?",
+        "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "B.R. Ambedkar", "Sardar Patel"],
+        "correct": "C",
+        "explanation": "Dr. B.R. Ambedkar is known as the Father of the Indian Constitution.",
+        "chapter_id": 3,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 2,
+        "question": "What is the capital of India?",
+        "options": ["Mumbai", "Kolkata", "New Delhi", "Chennai"],
+        "correct": "C",
+        "explanation": "New Delhi is the capital city of India.",
+        "chapter_id": 1,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 3,
+        "question": "Which is the longest river in India?",
+        "options": ["Yamuna", "Godavari", "Ganga", "Brahmaputra"],
+        "correct": "C",
+        "explanation": "The Ganga (Ganges) is the longest river in India.",
+        "chapter_id": 1,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 4,
+        "question": "Who wrote the Indian National Anthem?",
+        "options": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Sarojini Naidu", "Mohammad Iqbal"],
+        "correct": "B",
+        "explanation": "Rabindranath Tagore wrote 'Jana Gana Mana', the Indian National Anthem.",
+        "chapter_id": 3,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 5,
+        "question": "What is the national animal of India?",
+        "options": ["Lion", "Elephant", "Peacock", "Tiger"],
+        "correct": "D",
+        "explanation": "The Royal Bengal Tiger is the national animal of India.",
+        "chapter_id": 1,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 6,
+        "question": "Which is the largest continent by area?",
+        "options": ["Africa", "Asia", "North America", "Europe"],
+        "correct": "B",
+        "explanation": "Asia is the largest continent, covering about 30% of Earth's land area.",
+        "chapter_id": 2,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 7,
+        "question": "Who was the first Prime Minister of India?",
+        "options": ["Mahatma Gandhi", "Sardar Patel", "Jawaharlal Nehru", "Rajendra Prasad"],
+        "correct": "C",
+        "explanation": "Jawaharlal Nehru was the first Prime Minister of independent India.",
+        "chapter_id": 3,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 8,
+        "question": "Which is the smallest ocean in the world?",
+        "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+        "correct": "D",
+        "explanation": "The Arctic Ocean is the smallest ocean on Earth.",
+        "chapter_id": 2,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 9,
+        "question": "What is the national sport of India?",
+        "options": ["Cricket", "Hockey", "Football", "Kabaddi"],
+        "correct": "B",
+        "explanation": "Hockey is officially the national sport of India.",
+        "chapter_id": 1,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 10,
+        "question": "Who built the Taj Mahal?",
+        "options": ["Akbar", "Shah Jahan", "Aurangzeb", "Babur"],
+        "correct": "B",
+        "explanation": "Mughal Emperor Shah Jahan built the Taj Mahal in memory of his wife Mumtaz Mahal.",
+        "chapter_id": 3,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 11,
+        "question": "Which is the highest mountain peak in the world?",
+        "options": ["K2", "Kangchenjunga", "Mount Everest", "Makalu"],
+        "correct": "C",
+        "explanation": "Mount Everest (8,848 meters) is the highest mountain peak in the world.",
+        "chapter_id": 2,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 12,
+        "question": "Who is known as the 'Missile Man of India'?",
+        "options": ["Vikram Sarabhai", "Homi Bhabha", "A.P.J. Abdul Kalam", "C.V. Raman"],
+        "correct": "C",
+        "explanation": "Dr. A.P.J. Abdul Kalam was known as the 'Missile Man of India'.",
+        "chapter_id": 4,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 13,
+        "question": "Which country is known as the 'Land of the Rising Sun'?",
+        "options": ["China", "Korea", "Japan", "Thailand"],
+        "correct": "C",
+        "explanation": "Japan is known as the 'Land of the Rising Sun'.",
+        "chapter_id": 2,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 14,
+        "question": "Who won the FIFA World Cup in 2018?",
+        "options": ["Germany", "Brazil", "France", "Argentina"],
+        "correct": "C",
+        "explanation": "France won the 2018 FIFA World Cup by defeating Croatia.",
+        "chapter_id": 5,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 15,
+        "question": "What is the currency of the United Kingdom?",
+        "options": ["Euro", "Dollar", "Pound Sterling", "Yen"],
+        "correct": "C",
+        "explanation": "Pound Sterling is the official currency of the United Kingdom.",
+        "chapter_id": 2,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 16,
+        "question": "Which festival is known as the 'Festival of Lights'?",
+        "options": ["Holi", "Eid", "Diwali", "Christmas"],
+        "correct": "C",
+        "explanation": "Diwali is celebrated as the Festival of Lights in India.",
+        "chapter_id": 1,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 17,
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Van Gogh", "Picasso", "Leonardo da Vinci", "Rembrandt"],
+        "correct": "C",
+        "explanation": "Leonardo da Vinci painted the famous Mona Lisa.",
+        "chapter_id": 4,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 18,
+        "question": "Which is the largest desert in the world?",
+        "options": ["Gobi Desert", "Sahara Desert", "Arabian Desert", "Kalahari Desert"],
+        "correct": "B",
+        "explanation": "The Sahara Desert is the largest hot desert in the world.",
+        "chapter_id": 2,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 19,
+        "question": "Who was the first woman Prime Minister of India?",
+        "options": ["Sarojini Naidu", "Indira Gandhi", "Pratibha Patil", "Sonia Gandhi"],
+        "correct": "B",
+        "explanation": "Indira Gandhi was the first and only woman Prime Minister of India.",
+        "chapter_id": 3,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 20,
+        "question": "What is the national flower of India?",
+        "options": ["Rose", "Marigold", "Lotus", "Sunflower"],
+        "correct": "C",
+        "explanation": "Lotus is the national flower of India.",
+        "chapter_id": 1,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 21,
+        "question": "Which planet is known as the 'Morning Star'?",
+        "options": ["Mars", "Jupiter", "Venus", "Mercury"],
+        "correct": "C",
+        "explanation": "Venus is often called the Morning Star or Evening Star.",
+        "chapter_id": 4,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 22,
+        "question": "Who invented the telephone?",
+        "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Albert Einstein"],
+        "correct": "B",
+        "explanation": "Alexander Graham Bell invented the telephone in 1876.",
+        "chapter_id": 4,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 23,
+        "question": "Which Indian city is known as the 'Pink City'?",
+        "options": ["Jaipur", "Jodhpur", "Udaipur", "Bikaner"],
+        "correct": "A",
+        "explanation": "Jaipur is known as the Pink City because of its pink-colored buildings.",
+        "chapter_id": 1,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 24,
+        "question": "What is the smallest country in the world?",
+        "options": ["Monaco", "San Marino", "Vatican City", "Malta"],
+        "correct": "C",
+        "explanation": "Vatican City is the smallest independent state in the world.",
+        "chapter_id": 2,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 25,
+        "question": "Who wrote the famous book 'Discovery of India'?",
+        "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Rabindranath Tagore", "B.R. Ambedkar"],
+        "correct": "B",
+        "explanation": "Jawaharlal Nehru wrote 'The Discovery of India' while in prison.",
+        "chapter_id": 3,
+        "difficulty": "hard",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 26,
+        "question": "Which is the national bird of India?",
+        "options": ["Eagle", "Crow", "Peacock", "Sparrow"],
+        "correct": "C",
+        "explanation": "The Peacock is the national bird of India.",
+        "chapter_id": 1,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 27,
+        "question": "What is the full form of ISRO?",
+        "options": [
+            "Indian Space Research Organization",
+            "International Space Research Organization",
+            "Indian Scientific Research Organization",
+            "International Scientific Research Organization"
+        ],
+        "correct": "A",
+        "explanation": "ISRO stands for Indian Space Research Organization.",
+        "chapter_id": 4,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 28,
+        "question": "Which is the longest wall in the world?",
+        "options": ["Hadrian's Wall", "Berlin Wall", "Great Wall of China", "Western Wall"],
+        "correct": "C",
+        "explanation": "The Great Wall of China is the longest wall in the world.",
+        "chapter_id": 2,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 29,
+        "question": "Who was the first Indian to win a Nobel Prize?",
+        "options": ["C.V. Raman", "Rabindranath Tagore", "Hargobind Khorana", "Mother Teresa"],
+        "correct": "B",
+        "explanation": "Rabindranath Tagore won the Nobel Prize in Literature in 1913.",
+        "chapter_id": 3,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 30,
+        "question": "Which is the most populous country in the world?",
+        "options": ["USA", "India", "China", "Indonesia"],
+        "correct": "C",
+        "explanation": "China is the most populous country in the world, followed by India.",
+        "chapter_id": 2,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 31,
+        "question": "What is the name of India's first satellite?",
+        "options": ["INSAT-1B", "Aryabhata", "Bhaskara", "Rohini"],
+        "correct": "B",
+        "explanation": "Aryabhata was India's first satellite, launched in 1975.",
+        "chapter_id": 4,
+        "difficulty": "hard",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 32,
+        "question": "Which river is known as the 'Ganga of the South'?",
+        "options": ["Krishna", "Kaveri", "Godavari", "Narmada"],
+        "correct": "C",
+        "explanation": "Godavari River is often called the 'Ganga of the South'.",
+        "chapter_id": 1,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 33,
+        "question": "Who is the current President of India as of 2026?",
+        "options": ["Ram Nath Kovind", "Pratibha Patil", "Droupadi Murmu", "Pranab Mukherjee"],
+        "correct": "C",
+        "explanation": "Droupadi Murmu became the 15th President of India in 2022.",
+        "chapter_id": 3,
+        "difficulty": "medium",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 34,
+        "question": "What is the national tree of India?",
+        "options": ["Peepal", "Banyan", "Neem", "Mango"],
+        "correct": "B",
+        "explanation": "The Banyan tree is the national tree of India.",
+        "chapter_id": 1,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    },
+    {
+        "id": 35,
+        "question": "Which is the largest ocean in the world?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "correct": "D",
+        "explanation": "The Pacific Ocean is the largest ocean on Earth.",
+        "chapter_id": 2,
+        "difficulty": "easy",
+        "created_at": "2026-04-13 10:00:00"
+    }
+]

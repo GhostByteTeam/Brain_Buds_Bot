@@ -1,0 +1,183 @@
+====================================
+      AVAILABLE TOPICS
+====================================
+
+Here are all the subjects and chapters you can practice:
+
+────────────────────────────────────
+📚 MATHEMATICS
+────────────────────────────────────
+
+Chapter 1: Algebra
+  - Linear Equations
+  - Quadratic Equations
+  - Polynomials
+  - Sequences and Series
+
+Chapter 2: Geometry
+  - Lines and Angles
+  - Triangles
+  - Circles
+  - Coordinate Geometry
+
+Chapter 3: Trigonometry
+  - Trigonometric Ratios
+  - Identities
+  - Heights and Distances
+
+Chapter 4: Arithmetic
+  - Number System
+  - Fractions and Decimals
+  - Percentage and Ratio
+  - Profit and Loss
+
+Chapter 5: Calculus
+  - Limits
+  - Derivatives
+  - Integration
+
+────────────────────────────────────
+🔬 SCIENCE
+────────────────────────────────────
+
+Chapter 1: Physics Basics
+  - Motion
+  - Force and Laws of Motion
+  - Work and Energy
+
+Chapter 2: Chemistry
+  - Matter
+  - Atoms and Molecules
+  - Chemical Reactions
+
+Chapter 3: Biology Basics
+  - Cell Structure
+  - Tissues
+  - Life Processes
+
+────────────────────────────────────
+📖 ENGLISH GRAMMAR
+────────────────────────────────────
+
+Chapter 1: Tenses
+  - Present Tense
+  - Past Tense
+  - Future Tense
+
+Chapter 2: Parts of Speech
+  - Nouns and Pronouns
+  - Verbs and Adverbs
+  - Adjectives and Prepositions
+
+Chapter 3: Sentence Structure
+  - Subject-Verb Agreement
+  - Active and Passive Voice
+  - Direct and Indirect Speech
+
+Chapter 4: Vocabulary
+  - Synonyms and Antonyms
+  - Idioms and Phrases
+  - One Word Substitution
+
+────────────────────────────────────
+🧬 BIOLOGY
+────────────────────────────────────
+
+Chapter 1: Human Body
+  - Digestive System
+  - Respiratory System
+  - Circulatory System
+  - Nervous System
+
+Chapter 2: Plants
+  - Plant Kingdom
+  - Photosynthesis
+  - Reproduction in Plants
+
+Chapter 3: Animals
+  - Animal Kingdom
+  - Classification
+  - Adaptations
+
+Chapter 4: Cells and Genetics
+  - Cell Structure
+  - DNA and RNA
+  - Heredity
+
+────────────────────────────────────
+⚡ PHYSICS
+────────────────────────────────────
+
+Chapter 1: Laws of Motion
+  - Newton's Laws
+  - Friction
+  - Circular Motion
+
+Chapter 2: Units and Measurements
+  - SI Units
+  - Measurements
+  - Errors and Accuracy
+
+Chapter 3: Light and Optics
+  - Reflection
+  - Refraction
+  - Lenses and Mirrors
+
+Chapter 4: Electricity and Magnetism
+  - Current and Voltage
+  - Circuits
+  - Magnetism
+
+────────────────────────────────────
+🌍 GENERAL KNOWLEDGE
+────────────────────────────────────
+
+Chapter 1: Indian History
+  - Ancient India
+  - Medieval India
+  - Modern India
+
+Chapter 2: World Geography
+  - Physical Geography
+  - Continents and Oceans
+  - Countries and Capitals
+
+Chapter 3: Indian Polity
+  - Constitution
+  - Government Structure
+  - Rights and Duties
+
+Chapter 4: Science and Technology
+  - Inventions
+  - Space Research
+  - IT and Computers
+
+Chapter 5: Current Affairs
+  - National News
+  - International News
+  - Sports and Awards
+
+────────────────────────────────────
+📊 HOW TO USE
+────────────────────────────────────
+
+1. Type /menu or /topics
+2. Select any subject
+3. Choose a chapter
+4. Pick quiz mode
+5. Start answering!
+
+────────────────────────────────────
+💡 PRO TIPS
+────────────────────────────────────
+
+• Start with Practice Mode to learn
+• Use Quick Quiz for revision
+• Take Full Test when confident
+• Try Exam Mode for challenge
+• Play Daily Quiz to build streak
+
+────────────────────────────────────
+      Ready to test your knowledge?
+        Type /menu to begin!
+────────────────────────────────────

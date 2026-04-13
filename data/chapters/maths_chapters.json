@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Algebra",
+        "description": "Variables, equations, polynomials, and algebraic expressions",
+        "question_count": 0,
+        "icon": "📐",
+        "difficulty": "beginner"
+    },
+    {
+        "id": 2,
+        "name": "Geometry",
+        "description": "Shapes, angles, lines, circles, and coordinate geometry",
+        "question_count": 0,
+        "icon": "📏",
+        "difficulty": "beginner"
+    },
+    {
+        "id": 3,
+        "name": "Trigonometry",
+        "description": "Triangles, sine, cosine, tangent, and trigonometric identities",
+        "question_count": 0,
+        "icon": "📐",
+        "difficulty": "intermediate"
+    },
+    {
+        "id": 4,
+        "name": "Arithmetic",
+        "description": "Numbers, percentages, ratios, profit-loss, and basic calculations",
+        "question_count": 0,
+        "icon": "🔢",
+        "difficulty": "beginner"
+    },
+    {
+        "id": 5,
+        "name": "Calculus",
+        "description": "Limits, derivatives, integration, and differential equations",
+        "question_count": 0,
+        "icon": "∫",
+        "difficulty": "advanced"
+    },
+    {
+        "id": 6,
+        "name": "Statistics",
+        "description": "Mean, median, mode, probability, and data analysis",
+        "question_count": 0,
+        "icon": "📊",
+        "difficulty": "intermediate"
+    }
+]
